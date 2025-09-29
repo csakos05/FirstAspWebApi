@@ -4,14 +4,9 @@ using Microsoft.EntityFrameworkCore;
 
 namespace FirstAsp.Services;
 
-public class PizzaService
+public class PizzaService(ApplicationDbContext context)
 {
-    private readonly ApplicationDbContext _context;
-
-    public PizzaService(ApplicationDbContext context)
-    {
-        _context = context;
-    }
+    private readonly ApplicationDbContext _context = context;
 
     public async Task<List<Pizza>> GetAll() => await _context.Pizzas.ToListAsync();
 

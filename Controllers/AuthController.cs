@@ -5,7 +5,7 @@ using FirstAsp.Services;
 namespace FirstAsp.Controllers; 
 
 [ApiController]
-[Route("api/[controller]")]
+[Route("[controller]")]
 public class AuthController : ControllerBase
 {
     private readonly AuthenticationService _authService;
