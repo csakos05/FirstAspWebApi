@@ -1,6 +1,7 @@
 using FirstAsp.Models;
 using FirstAsp.Services;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Authorization;
 
 namespace FirstAsp.Controllers;
 
@@ -21,6 +22,7 @@ public class PizzaController : ControllerBase
         await _pizzaService.GetAll();
 
     // GET all gluten-free action
+    [Authorize]
     [HttpGet("glutenfree")]
     public async Task<ActionResult<List<Pizza>>> GetAllGlutenFree() =>
         await _pizzaService.GetAllGlutenFree();

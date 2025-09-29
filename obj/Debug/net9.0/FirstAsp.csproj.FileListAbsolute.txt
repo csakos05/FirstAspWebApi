@@ -128,3 +128,14 @@
 /Users/akos/PracticeRepos/FirstAsp/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 /Users/akos/PracticeRepos/FirstAsp/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 /Users/akos/PracticeRepos/FirstAsp/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/akos/PracticeRepos/FirstAsp/bin/Debug/net9.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/akos/PracticeRepos/FirstAsp/bin/Debug/net9.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/akos/PracticeRepos/FirstAsp/bin/Debug/net9.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/akos/PracticeRepos/FirstAsp/bin/Debug/net9.0/Microsoft.IdentityModel.Logging.dll
+/Users/akos/PracticeRepos/FirstAsp/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.dll
+/Users/akos/PracticeRepos/FirstAsp/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/akos/PracticeRepos/FirstAsp/bin/Debug/net9.0/Microsoft.IdentityModel.Tokens.dll
+/Users/akos/PracticeRepos/FirstAsp/bin/Debug/net9.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/akos/PracticeRepos/FirstAsp/bin/Debug/net9.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/akos/PracticeRepos/FirstAsp/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/akos/PracticeRepos/FirstAsp/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll
